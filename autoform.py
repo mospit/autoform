@@ -41,3 +41,4 @@ def autofill(first_name, last_name,_phone, _email, _street1, _street2, _city, _s
     zipSelector.send_keys(zip)
 
     
+""" autofill('marcus','clark','5803403816','marcus@gmail.com','5350 nw cache rd','apt 5', 'lawton','ok','73505','04/20/1994','87654321')"""
